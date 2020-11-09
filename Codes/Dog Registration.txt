@@ -1,0 +1,7046 @@
+﻿<!doctype html>
+	
+
+	<html class="no-js" lang="en">
+	
+
+	<head>
+	
+
+	<meta charset="utf-8">
+	
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	
+
+	<meta name="theme-color" content="#3a3a3a"><link rel="canonical" href="https://manalok9icgd.com/pages/register-your-dog-puppy"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0402/4447/8101/files/realistkcjika-2_32x32.png?v=1592755101" type="image/png"><title>Register Your Dog/Puppy
+	
+
+	&ndash; International Canine Genetics Database</title><meta name="description" content="Importance of Registering Your Dog: If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog&#39;s information, identifications, records, certifications, etc. You can establish a documented ownership of your"><!-- /snippets/social-meta-tags.liquid -->
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<meta property="og:site_name" content="International Canine Genetics Database">
+	
+
+	<meta property="og:url" content="https://manalok9icgd.com/pages/register-your-dog-puppy">
+	
+
+	<meta property="og:title" content="Register Your Dog/Puppy">
+	
+
+	<meta property="og:type" content="website">
+	
+
+	<meta property="og:description" content="Importance of Registering Your Dog: If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog&#39;s information, identifications, records, certifications, etc. You can establish a documented ownership of your">
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<meta name="twitter:card" content="summary_large_image">
+	
+
+	<meta name="twitter:title" content="Register Your Dog/Puppy">
+	
+
+	<meta name="twitter:description" content="Importance of Registering Your Dog: If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog&#39;s information, identifications, records, certifications, etc. You can establish a documented ownership of your">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<link href="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/theme.scss.css?v=16353038100967133294" rel="stylesheet" type="text/css" media="all" />
+	
+
+	
+
+	
+
+	<script>
+	
+
+	var theme = {
+	
+
+	breakpoints: {
+	
+
+	medium: 750,
+	
+
+	large: 990,
+	
+
+	widescreen: 1400
+	
+
+	},
+	
+
+	strings: {
+	
+
+	addToCart: "Add to cart",
+	
+
+	soldOut: "Sold out",
+	
+
+	unavailable: "Unavailable",
+	
+
+	regularPrice: "Regular price",
+	
+
+	salePrice: "Sale price",
+	
+
+	sale: "Sale",
+	
+
+	fromLowestPrice: "from [price]",
+	
+
+	vendor: "Vendor",
+	
+
+	showMore: "Show More",
+	
+
+	showLess: "Show Less",
+	
+
+	searchFor: "Search for",
+	
+
+	addressError: "Error looking up that address",
+	
+
+	addressNoResults: "No results for that address",
+	
+
+	addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+	
+
+	authError: "There was a problem authenticating your Google Maps account.",
+	
+
+	newWindow: "Opens in a new window.",
+	
+
+	external: "Opens external website.",
+	
+
+	newWindowExternal: "Opens external website in a new window.",
+	
+
+	removeLabel: "Remove [product]",
+	
+
+	update: "Update",
+	
+
+	quantity: "Quantity",
+	
+
+	discountedTotal: "Discounted total",
+	
+
+	regularTotal: "Regular total",
+	
+
+	priceColumn: "See Price column for discount details.",
+	
+
+	quantityMinimumMessage: "Quantity must be 1 or more",
+	
+
+	cartError: "There was an error while updating your cart. Please try again.",
+	
+
+	removedItemMessage: "Removed \u003cspan class=\"cart__removed-product-details\"\u003e([quantity]) [link]\u003c\/span\u003e from your cart.",
+	
+
+	unitPrice: "Unit price",
+	
+
+	unitPriceSeparator: "per",
+	
+
+	oneCartCount: "1 item",
+	
+
+	otherCartCount: "[count] items",
+	
+
+	quantityLabel: "Quantity: [count]",
+	
+
+	products: "Products",
+	
+
+	loading: "Loading",
+	
+
+	number_of_results: "[result_number] of [results_count]",
+	
+
+	number_of_results_found: "[results_count] results found",
+	
+
+	one_result_found: "1 result found"
+	
+
+	},
+	
+
+	moneyFormat: "₱{{amount}}",
+	
+
+	moneyFormatWithCurrency: "₱{{amount}} PHP",
+	
+
+	settings: {
+	
+
+	predictiveSearchEnabled: true,
+	
+
+	predictiveSearchShowPrice: false,
+	
+
+	predictiveSearchShowVendor: false
+	
+
+	}
+	
+
+	}
+	
+
+	
+
+	
+
+	document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+	
+
+	</script><script src="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/lazysizes.js?v=9422402313628365795" async="async"></script>
+	
+
+	<script src="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/vendor.js?v=8583346420283214553" defer="defer"></script>
+	
+
+	<script src="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/theme.js?v=8903157658550589297" defer="defer"></script>
+	
+
+	
+
+	
+
+	<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/40244478101/digital_wallets/dialog">
+	
+
+	<meta name="shopify-checkout-api-token" content="d40cc613614651add8f37a060981a3bf">
+	
+
+	<meta id="in-context-paypal-metadata" data-shop-id="40244478101" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="PHP">
+	
+
+	<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+	
+
+	<script id="shopify-features" type="application/json">{"accessToken":"d40cc613614651add8f37a060981a3bf","betas":["rich-media-storefront-analytics"],"domain":"manalok9icgd.com","predictiveSearch":true,"shopId":40244478101,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+	
+
+	<script>var Shopify = Shopify || {};
+	
+
+	Shopify.shop = "manalok9icgd.myshopify.com";
+	
+
+	Shopify.locale = "en";
+	
+
+	Shopify.currency = {"active":"PHP","rate":"1.0"};
+	
+
+	Shopify.theme = {"name":"Debut","id":100672536725,"theme_store_id":796,"role":"main"};
+	
+
+	Shopify.theme.handle = "null";
+	
+
+	Shopify.theme.style = {"id":null,"handle":null};
+	
+
+	Shopify.cdnHost = "cdn.shopify.com";</script>
+	
+
+	<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+	
+
+	<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+	
+
+	<script>(function() {
+	
+
+	function asyncLoad() {
+	
+
+	var urls = ["https:\/\/formbuilder.hulkapps.com\/skeletopapp.js?shop=manalok9icgd.myshopify.com","https:\/\/cdncozygallerya.addons.business\/embed\/cziframeagent.js?v=2804141505\u0026shop=manalok9icgd.myshopify.com"];
+	
+
+	for (var i = 0; i < urls.length; i++) {
+	
+
+	var s = document.createElement('script');
+	
+
+	s.type = 'text/javascript';
+	
+
+	s.async = true;
+	
+
+	s.src = urls[i];
+	
+
+	var x = document.getElementsByTagName('script')[0];
+	
+
+	x.parentNode.insertBefore(s, x);
+	
+
+	}
+	
+
+	};
+	
+
+	if(window.attachEvent) {
+	
+
+	window.attachEvent('onload', asyncLoad);
+	
+
+	} else {
+	
+
+	window.addEventListener('load', asyncLoad, false);
+	
+
+	}
+	
+
+	})();</script>
+	
+
+	<script id="__st">var __st={"a":40244478101,"offset":28800,"reqid":"e06c3439-9628-41b2-a8e8-a8aa573d37db","pageurl":"manalok9icgd.com\/pages\/register-your-dog-puppy","s":"pages-60189474965","u":"fa4c45993d8b","p":"page","rtyp":"page","rid":60189474965};</script>
+	
+
+	<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+	
+
+	<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+	
+
+	window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+	
+
+	window.ShopifyAnalytics.meta.currency = 'PHP';
+	
+
+	var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":60189474965}};
+	
+
+	for (var attr in meta) {
+	
+
+	window.ShopifyAnalytics.meta[attr] = meta[attr];
+	
+
+	}</script>
+	
+
+	<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+	
+
+	
+
+	
+
+	};
+	
+
+	</script>
+	
+
+	<script class="analytics">(function () {
+	
+
+	var customDocumentWrite = function(content) {
+	
+
+	var jquery = null;
+	
+
+	
+
+	
+
+	if (window.jQuery) {
+	
+
+	jquery = window.jQuery;
+	
+
+	} else if (window.Checkout && window.Checkout.$) {
+	
+
+	jquery = window.Checkout.$;
+	
+
+	}
+	
+
+	
+
+	
+
+	if (jquery) {
+	
+
+	jquery('body').append(content);
+	
+
+	}
+	
+
+	};
+	
+
+	
+
+	
+
+	var hasLoggedConversion = function(token) {
+	
+
+	if (document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1) {
+	
+
+	return true;
+	
+
+	}
+	
+
+	if (token) {
+	
+
+	return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+	
+
+	}
+	
+
+	return false;
+	
+
+	}
+	
+
+	
+
+	
+
+	var setCookieIfConversion = function(token) {
+	
+
+	if (token) {
+	
+
+	var twoMonthsFromNow = new Date(Date.now());
+	
+
+	twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+	
+
+	
+
+	
+
+	document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+	
+
+	}
+	
+
+	}
+	
+
+	
+
+	
+
+	var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+	
+
+	if (trekkie.integrations) {
+	
+
+	return;
+	
+
+	}
+	
+
+	trekkie.methods = [
+	
+
+	'identify',
+	
+
+	'page',
+	
+
+	'ready',
+	
+
+	'track',
+	
+
+	'trackForm',
+	
+
+	'trackLink'
+	
+
+	];
+	
+
+	trekkie.factory = function(method) {
+	
+
+	return function() {
+	
+
+	var args = Array.prototype.slice.call(arguments);
+	
+
+	args.unshift(method);
+	
+
+	trekkie.push(args);
+	
+
+	return trekkie;
+	
+
+	};
+	
+
+	};
+	
+
+	for (var i = 0; i < trekkie.methods.length; i++) {
+	
+
+	var key = trekkie.methods[i];
+	
+
+	trekkie[key] = trekkie.factory(key);
+	
+
+	}
+	
+
+	trekkie.load = function(config) {
+	
+
+	trekkie.config = config;
+	
+
+	var first = document.getElementsByTagName('script')[0];
+	
+
+	var script = document.createElement('script');
+	
+
+	script.type = 'text/javascript';
+	
+
+	script.onerror = function(e) {
+	
+
+	var scriptFallback = document.createElement('script');
+	
+
+	scriptFallback.type = 'text/javascript';
+	
+
+	scriptFallback.onerror = function(error) {
+	
+
+	var Monorail = {
+	
+
+	produce: function produce(monorailDomain, schemaId, payload) {
+	
+
+	var currentMs = new Date().getTime();
+	
+
+	var event = {
+	
+
+	schema_id: schemaId,
+	
+
+	payload: payload,
+	
+
+	metadata: {
+	
+
+	event_created_at_ms: currentMs,
+	
+
+	event_sent_at_ms: currentMs
+	
+
+	}
+	
+
+	};
+	
+
+	return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+	
+
+	},
+	
+
+	sendRequest: function sendRequest(endpointUrl, payload) {
+	
+
+	// Try the sendBeacon API
+	
+
+	if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+	
+
+	var blobData = new window.Blob([payload], {
+	
+
+	type: 'text/plain'
+	
+
+	});
+	
+
+	
+
+	
+
+	if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+	
+
+	return true;
+	
+
+	} // sendBeacon was not successful
+	
+
+	
+
+	
+
+	} // XHR beacon
+	
+
+	
+
+	
+
+	var xhr = new XMLHttpRequest();
+	
+
+	
+
+	
+
+	try {
+	
+
+	xhr.open('POST', endpointUrl);
+	
+
+	xhr.setRequestHeader('Content-Type', 'text/plain');
+	
+
+	xhr.send(payload);
+	
+
+	} catch (e) {
+	
+
+	console.log(e);
+	
+
+	}
+	
+
+	
+
+	
+
+	return false;
+	
+
+	},
+	
+
+	isIos12: function isIos12() {
+	
+
+	return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+	
+
+	}
+	
+
+	};
+	
+
+	Monorail.produce('monorail-edge.shopifysvc.com',
+	
+
+	'trekkie_storefront_load_errors/1.1',
+	
+
+	{shop_id: 40244478101,
+	
+
+	theme_id: 100672536725,
+	
+
+	app_name: "storefront",
+	
+
+	context_url: window.location.href,
+	
+
+	source_url: "https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.17582dc9a71a886cc49978263a7f8a5b6951db08.min.js"});
+	
+
+	
+
+	
+
+	};
+	
+
+	scriptFallback.async = true;
+	
+
+	scriptFallback.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.17582dc9a71a886cc49978263a7f8a5b6951db08.min.js';
+	
+
+	first.parentNode.insertBefore(scriptFallback, first);
+	
+
+	};
+	
+
+	script.async = true;
+	
+
+	script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.17582dc9a71a886cc49978263a7f8a5b6951db08.min.js';
+	
+
+	first.parentNode.insertBefore(script, first);
+	
+
+	};
+	
+
+	trekkie.load(
+	
+
+	{"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":40244478101,"isMerchantRequest":null,"themeId":100672536725,"themeCityHash":"12180134231832368609","contentLanguage":"en","currency":"PHP"},"isServerSideCookieWritingEnabled":true,"isPixelGateEnabled":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Session Attribution":{}}
+	
+
+	);
+	
+
+	
+
+	
+
+	var loaded = false;
+	
+
+	trekkie.ready(function() {
+	
+
+	if (loaded) return;
+	
+
+	loaded = true;
+	
+
+	
+
+	
+
+	window.ShopifyAnalytics.lib = window.trekkie;
+	
+
+	
+
+	
+
+	
+
+	
+
+	var originalDocumentWrite = document.write;
+	
+
+	document.write = customDocumentWrite;
+	
+
+	try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+	
+
+	document.write = originalDocumentWrite;
+	
+
+	(function () {
+	
+
+	if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+	
+
+	return;
+	
+
+	}
+	
+
+	window.BOOMR = window.BOOMR || {};
+	
+
+	window.BOOMR.snippetStart = new Date().getTime();
+	
+
+	window.BOOMR.snippetExecuted = true;
+	
+
+	window.BOOMR.snippetVersion = 12;
+	
+
+	window.BOOMR.application = "storefront-renderer";
+	
+
+	window.BOOMR.themeName = "Debut";
+	
+
+	window.BOOMR.themeVersion = "16.7.1";
+	
+
+	window.BOOMR.shopId = 40244478101;
+	
+
+	window.BOOMR.themeId = 100672536725;
+	
+
+	window.BOOMR.url =
+	
+
+	"https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+	
+
+	var where = document.currentScript || document.getElementsByTagName("script")[0];
+	
+
+	var parentNode = where.parentNode;
+	
+
+	var promoted = false;
+	
+
+	var LOADER_TIMEOUT = 3000;
+	
+
+	function promote() {
+	
+
+	if (promoted) {
+	
+
+	return;
+	
+
+	}
+	
+
+	var script = document.createElement("script");
+	
+
+	script.id = "boomr-scr-as";
+	
+
+	script.src = window.BOOMR.url;
+	
+
+	script.async = true;
+	
+
+	parentNode.appendChild(script);
+	
+
+	promoted = true;
+	
+
+	}
+	
+
+	function iframeLoader(wasFallback) {
+	
+
+	promoted = true;
+	
+
+	var dom, bootstrap, iframe, iframeStyle;
+	
+
+	var doc = document;
+	
+
+	var win = window;
+	
+
+	window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+	
+
+	bootstrap = function(parent, scriptId) {
+	
+
+	var script = doc.createElement("script");
+	
+
+	script.id = scriptId || "boomr-if-as";
+	
+
+	script.src = window.BOOMR.url;
+	
+
+	BOOMR_lstart = new Date().getTime();
+	
+
+	parent = parent || doc.body;
+	
+
+	parent.appendChild(script);
+	
+
+	};
+	
+
+	if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+	
+
+	window.BOOMR.snippetMethod = "s";
+	
+
+	bootstrap(parentNode, "boomr-async");
+	
+
+	return;
+	
+
+	}
+	
+
+	iframe = document.createElement("IFRAME");
+	
+
+	iframe.src = "about:blank";
+	
+
+	iframe.title = "";
+	
+
+	iframe.role = "presentation";
+	
+
+	iframe.loading = "eager";
+	
+
+	iframeStyle = (iframe.frameElement || iframe).style;
+	
+
+	iframeStyle.width = 0;
+	
+
+	iframeStyle.height = 0;
+	
+
+	iframeStyle.border = 0;
+	
+
+	iframeStyle.display = "none";
+	
+
+	parentNode.appendChild(iframe);
+	
+
+	try {
+	
+
+	win = iframe.contentWindow;
+	
+
+	doc = win.document.open();
+	
+
+	} catch (e) {
+	
+
+	dom = document.domain;
+	
+
+	iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+	
+
+	win = iframe.contentWindow;
+	
+
+	doc = win.document.open();
+	
+
+	}
+	
+
+	if (dom) {
+	
+
+	doc._boomrl = function() {
+	
+
+	this.domain = dom;
+	
+
+	bootstrap();
+	
+
+	};
+	
+
+	doc.write("<body onload='document._boomrl();'>");
+	
+
+	} else {
+	
+
+	win._boomrl = function() {
+	
+
+	bootstrap();
+	
+
+	};
+	
+
+	if (win.addEventListener) {
+	
+
+	win.addEventListener("load", win._boomrl, false);
+	
+
+	} else if (win.attachEvent) {
+	
+
+	win.attachEvent("onload", win._boomrl);
+	
+
+	}
+	
+
+	}
+	
+
+	doc.close();
+	
+
+	}
+	
+
+	var link = document.createElement("link");
+	
+
+	if (link.relList &&
+	
+
+	typeof link.relList.supports === "function" &&
+	
+
+	link.relList.supports("preload") &&
+	
+
+	("as" in link)) {
+	
+
+	window.BOOMR.snippetMethod = "p";
+	
+
+	link.href = window.BOOMR.url;
+	
+
+	link.rel = "preload";
+	
+
+	link.as = "script";
+	
+
+	link.addEventListener("load", promote);
+	
+
+	link.addEventListener("error", function() {
+	
+
+	iframeLoader(true);
+	
+
+	});
+	
+
+	setTimeout(function() {
+	
+
+	if (!promoted) {
+	
+
+	iframeLoader(true);
+	
+
+	}
+	
+
+	}, LOADER_TIMEOUT);
+	
+
+	BOOMR_lstart = new Date().getTime();
+	
+
+	parentNode.appendChild(link);
+	
+
+	} else {
+	
+
+	iframeLoader(false);
+	
+
+	}
+	
+
+	function boomerangSaveLoadTime(e) {
+	
+
+	window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+	
+
+	}
+	
+
+	if (window.addEventListener) {
+	
+
+	window.addEventListener("load", boomerangSaveLoadTime, false);
+	
+
+	} else if (window.attachEvent) {
+	
+
+	window.attachEvent("onload", boomerangSaveLoadTime);
+	
+
+	}
+	
+
+	if (document.addEventListener) {
+	
+
+	document.addEventListener("onBoomerangLoaded", function(e) {
+	
+
+	e.detail.BOOMR.init({
+	
+
+	producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+	
+
+	ResourceTiming: {
+	
+
+	enabled: true,
+	
+
+	trackedResourceTypes: ["script", "img", "css"]
+	
+
+	},
+	
+
+	});
+	
+
+	e.detail.BOOMR.t_end = new Date().getTime();
+	
+
+	});
+	
+
+	} else if (document.attachEvent) {
+	
+
+	document.attachEvent("onpropertychange", function(e) {
+	
+
+	if (!e) e=event;
+	
+
+	if (e.propertyName === "onBoomerangLoaded") {
+	
+
+	e.detail.BOOMR.init({
+	
+
+	producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+	
+
+	ResourceTiming: {
+	
+
+	enabled: true,
+	
+
+	trackedResourceTypes: ["script", "img", "css"]
+	
+
+	},
+	
+
+	});
+	
+
+	e.detail.BOOMR.t_end = new Date().getTime();
+	
+
+	}
+	
+
+	});
+	
+
+	}
+	
+
+	})();
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	window.ShopifyAnalytics.lib.page(
+	
+
+	null,
+	
+
+	{"pageType":"page","resourceType":"page","resourceId":60189474965}
+	
+
+	);
+	
+
+	
+
+	
+
+	
+
+	
+
+	var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+	
+
+	var token = match? match[1]: undefined;
+	
+
+	if (!hasLoggedConversion(token)) {
+	
+
+	setCookieIfConversion(token);
+	
+
+	
+
+	
+
+	}
+	
+
+	});
+	
+
+	
+
+	
+
+	
+
+	
+
+	var eventsListenerScript = document.createElement('script');
+	
+
+	eventsListenerScript.async = true;
+	
+
+	eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-68ba3f1321f00bf07cb78a03841621079812265e950cdccade3463749ea2705e.js";
+	
+
+	document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+	
+
+	
+
+	
+
+	})();</script>
+	
+
+	<script>!function(e){e.addEventListener("DOMContentLoaded",function(){var t;null!==e.querySelector('form[action^="/contact"] input[name="form_type"][value="contact"]')&&(window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"},(t=e.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.1/index.js"),e.body.appendChild(t))})}(document);</script>
+	
+
+	<script integrity="sha256-JP8SIsmqE7shdlPA0+ooxAp5aigObaKa1CHuwqYHXIY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-24ff1222c9aa13bb217653c0d3ea28c40a796a280e6da29ad421eec2a6075c86.js" crossorigin="anonymous"></script>
+	
+
+	<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+	
+
+	#dynamic-checkout-cart {
+	
+
+	min-height: 50px;
+	
+
+	}
+	
+
+	}
+	
+
+	
+
+	
+
+	@media screen and (max-width: 750px) {
+	
+
+	#dynamic-checkout-cart {
+	
+
+	min-height: 60px;
+	
+
+	}
+	
+
+	}
+	
+
+	</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+	
+
+	
+
+	
+
+	<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b.png?height=628&pad_color=ffffff&v=1592754194&width=1200" />
+	
+
+	<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b.png?height=628&pad_color=ffffff&v=1592754194&width=1200" />
+	
+
+	<meta property="og:image:width" content="1200" />
+	
+
+	<meta property="og:image:height" content="628" />
+	
+
+	</head>
+	
+
+	
+
+	
+
+	<body class="template-page">
+	
+
+	
+
+	
+
+	<a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a><style data-shopify>
+	
+
+	
+
+	
+
+	.cart-popup {
+	
+
+	box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);
+	
+
+	}</style><div class="cart-popup-wrapper cart-popup-wrapper--hidden" role="dialog" aria-modal="true" aria-labelledby="CartPopupHeading" data-cart-popup-wrapper>
+	
+
+	<div class="cart-popup" data-cart-popup tabindex="-1">
+	
+
+	<div class="cart-popup__header">
+	
+
+	<h2 id="CartPopupHeading" class="cart-popup__heading">Just added to your cart</h2>
+	
+
+	<button class="cart-popup__close" aria-label="Close" data-cart-popup-close><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg></button>
+	
+
+	</div>
+	
+
+	<div class="cart-popup-item">
+	
+
+	<div class="cart-popup-item__image-wrapper hide" data-cart-popup-image-wrapper>
+	
+
+	<div class="cart-popup-item__image cart-popup-item__image--placeholder" data-cart-popup-image-placeholder>
+	
+
+	<div data-placeholder-size></div>
+	
+
+	<div class="placeholder-background placeholder-background--animation"></div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	<div class="cart-popup-item__description">
+	
+
+	<div>
+	
+
+	<h3 class="cart-popup-item__title" data-cart-popup-title></h3>
+	
+
+	<ul class="product-details" aria-label="Product details" data-cart-popup-product-details></ul>
+	
+
+	</div>
+	
+
+	<div class="cart-popup-item__quantity">
+	
+
+	<span class="visually-hidden" data-cart-popup-quantity-label></span>
+	
+
+	<span aria-hidden="true">Qty:</span>
+	
+
+	<span aria-hidden="true" data-cart-popup-quantity></span>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<a href="/cart" class="cart-popup__cta-link btn btn--secondary-accent">
+	
+
+	View cart (<span data-cart-popup-cart-quantity></span>)
+	
+
+	</a>
+	
+
+	
+
+	
+
+	<div class="cart-popup__dismiss">
+	
+
+	<button class="cart-popup__dismiss-button text-link text-link--accent" data-cart-popup-dismiss>
+	
+
+	Continue shopping
+	
+
+	</button>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div id="shopify-section-header" class="shopify-section">
+	
+
+	<style>
+	
+
+	
+
+	
+
+	.site-header__logo-image {
+	
+
+	max-width: 165px;
+	
+
+	}
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	.site-header__logo-image {
+	
+
+	margin: 0;
+	
+
+	}
+	
+
+	
+
+	
+
+	</style>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search" data-predictive-search-drawer>
+	
+
+	<div class="search-bar__interior">
+	
+
+	<div class="search-form__container" data-search-form-container>
+	
+
+	<form class="search-form search-bar__form" action="/search" method="get" role="search">
+	
+
+	<div class="search-form__input-wrapper">
+	
+
+	<input
+	
+
+	type="text"
+	
+
+	name="q"
+	
+
+	placeholder="Search"
+	
+
+	role="combobox"
+	
+
+	aria-autocomplete="list"
+	
+
+	aria-owns="predictive-search-results"
+	
+
+	aria-expanded="false"
+	
+
+	aria-label="Search"
+	
+
+	aria-haspopup="listbox"
+	
+
+	class="search-form__input search-bar__input"
+	
+
+	data-predictive-search-drawer-input
+	
+
+	/>
+	
+
+	<input type="hidden" name="options[prefix]" value="last" aria-hidden="true" />
+	
+
+	<div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<button class="search-bar__submit search-form__submit"
+	
+
+	type="submit"
+	
+
+	data-search-form-submit>
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+	
+
+	<span class="icon__fallback-text">Submit</span>
+	
+
+	</button>
+	
+
+	</form>
+	
+
+	
+
+	
+
+	<div class="search-bar__actions">
+	
+
+	<button type="button" class="btn--link search-bar__close js-drawer-close">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+	
+
+	<span class="icon__fallback-text">Close search</span>
+	
+
+	</button>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div data-section-id="header" data-section-type="header-section" data-header-section>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<header class="site-header border-bottom logo--left" role="banner">
+	
+
+	<div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="grid__item medium-up--one-fifth logo-align--left">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="h2 site-header__logo">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<a href="/" class="site-header__logo-image">
+	
+
+	
+
+	
+
+	<img class="lazyload js"
+	
+
+	src="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_300x300.png?v=1592754194"
+	
+
+	data-src="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_{width}x.png?v=1592754194"
+	
+
+	data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+	
+
+	data-aspectratio="2.3157216494845363"
+	
+
+	data-sizes="auto"
+	
+
+	alt="International Canine Genetics Database"
+	
+
+	style="max-width: 165px">
+	
+
+	<noscript>
+	
+
+	
+
+	
+
+	<img src="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_165x.png?v=1592754194"
+	
+
+	srcset="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_165x.png?v=1592754194 1x, //cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_165x@2x.png?v=1592754194 2x"
+	
+
+	alt="International Canine Genetics Database"
+	
+
+	style="max-width: 165px;">
+	
+
+	</noscript>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<nav class="grid__item medium-up--three-fifths small--hide" id="AccessibleNav" role="navigation">
+	
+
+	
+
+	
+
+	<ul class="site-nav list--inline" id="SiteNav">
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Home</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li class="site-nav--has-dropdown" data-has-dropdowns>
+	
+
+	<button class="site-nav__link site-nav__link--main site-nav__link--button site-nav__link--active" type="button" aria-expanded="false" aria-controls="SiteNavLabel-registration">
+	
+
+	<span class="site-nav__label">Registration</span><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-down" viewBox="0 0 9 9"><path d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z" fill="#fff"/></svg>
+	
+
+	</button>
+	
+
+	
+
+	
+
+	<div class="site-nav__dropdown" id="SiteNavLabel-registration">
+	
+
+	
+
+	
+
+	<ul>
+	
+
+	
+
+	
+
+	<li>
+	
+
+	<a href="/pages/register-your-dog-puppy"
+	
+
+	class="site-nav__link site-nav__child-link"
+	
+
+	aria-current="page"
+	
+
+	>
+	
+
+	<span class="site-nav__label">Register a Dog/Puppy</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li>
+	
+
+	<a href="/pages/registration-of-a-kennel-name"
+	
+
+	class="site-nav__link site-nav__child-link site-nav__link--last"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Registration of a Kennel Name</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/membership"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Membership</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/dog-breeds"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Breeds</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/forms-and-fees"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Forms and Fees</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/dna-parent-verification-test"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Dog DNA Test</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/registered-dogs"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Registered Dogs</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	
+
+	
+
+	</nav>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="grid__item medium-up--one-fifth text-right site-header__icons">
+	
+
+	<div class="site-header__icons-wrapper">
+	
+
+	
+
+	
+
+	<button type="button" class="btn--link site-header__icon site-header__search-toggle js-drawer-open-top">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+	
+
+	<span class="icon__fallback-text">Search</span>
+	
+
+	</button>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<a href="/cart" class="site-header__icon site-header__cart">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"/></svg>
+	
+
+	<span class="icon__fallback-text">Cart</span>
+	
+
+	<div id="CartCount" class="site-header__cart-count hide" data-cart-count-bubble>
+	
+
+	<span data-cart-count>0</span>
+	
+
+	<span class="icon__fallback-text medium-up--hide">items</span>
+	
+
+	</div>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="MobileNav" aria-expanded="false" aria-label="Menu">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"/></svg>
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+	
+
+	</button>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<nav class="mobile-nav-wrapper medium-up--hide" role="navigation">
+	
+
+	<ul id="MobileNav" class="mobile-nav">
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Home</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<button type="button" class="btn--link js-toggle-submenu mobile-nav__link mobile-nav__link--active" data-target="registration-2" data-level="1" aria-expanded="false">
+	
+
+	<span class="mobile-nav__label">Registration</span>
+	
+
+	<div class="mobile-nav__icon">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 14 14"><path d="M3.871.604c.44-.439 1.152-.439 1.591 0l5.515 5.515s-.049-.049.003.004l.082.08c.439.44.44 1.153 0 1.592l-5.6 5.6a1.125 1.125 0 0 1-1.59-1.59L8.675 7 3.87 2.195a1.125 1.125 0 0 1 0-1.59z" fill="#fff"/></svg>
+	
+
+	</div>
+	
+
+	</button>
+	
+
+	<ul class="mobile-nav__dropdown" data-parent="registration-2" data-level="2">
+	
+
+	<li class="visually-hidden" tabindex="-1" data-menu-title="2">Registration Menu</li>
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	<div class="mobile-nav__table">
+	
+
+	<div class="mobile-nav__table-cell mobile-nav__return">
+	
+
+	<button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button" aria-expanded="true" aria-label="Registration">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 14 14"><path d="M10.129.604a1.125 1.125 0 0 0-1.591 0L3.023 6.12s.049-.049-.003.004l-.082.08c-.439.44-.44 1.153 0 1.592l5.6 5.6a1.125 1.125 0 0 0 1.59-1.59L5.325 7l4.805-4.805c.44-.439.44-1.151 0-1.59z" fill="#fff"/></svg>
+	
+
+	</button>
+	
+
+	</div>
+	
+
+	<span class="mobile-nav__sublist-link mobile-nav__sublist-header mobile-nav__sublist-header--main-nav-parent">
+	
+
+	<span class="mobile-nav__label">Registration</span>
+	
+
+	</span>
+	
+
+	</div>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/register-your-dog-puppy"
+	
+
+	class="mobile-nav__sublist-link"
+	
+
+	aria-current="page"
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Register a Dog/Puppy</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item">
+	
+
+	
+
+	
+
+	<a href="/pages/registration-of-a-kennel-name"
+	
+
+	class="mobile-nav__sublist-link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Registration of a Kennel Name</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/membership"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Membership</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/dog-breeds"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Breeds</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/forms-and-fees"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Forms and Fees</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/dna-parent-verification-test"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Dog DNA Test</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item">
+	
+
+	
+
+	
+
+	<a href="/pages/registered-dogs"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Registered Dogs</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	</nav>
+	
+
+	</header>
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<script type="application/ld+json">
+	
+
+	{
+	
+
+	"@context": "http://schema.org",
+	
+
+	"@type": "Organization",
+	
+
+	"name": "International Canine Genetics Database",
+	
+
+	
+
+	
+
+	
+
+	
+
+	"logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0402\/4447\/8101\/files\/logo_b_1797x.png?v=1592754194",
+	
+
+	
+
+	
+
+	"sameAs": [
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	""
+	
+
+	],
+	
+
+	"url": "https:\/\/manalok9icgd.com\/pages\/register-your-dog-puppy"
+	
+
+	}
+	
+
+	</script>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div class="page-container drawer-page-content" id="PageContainer">
+	
+
+	
+
+	
+
+	<main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+	
+
+	<div class="page-width">
+	
+
+	<div class="grid">
+	
+
+	<div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+	
+
+	<div class="section-header text-center">
+	
+
+	<h1>Register Your Dog/Puppy</h1>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div class="rte">
+	
+
+	<meta charset="utf-8">
+	
+
+	<p><strong>Importance of Registering Your Dog: </strong></p>
+	
+
+	<p>If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog's information, identifications, records, certifications, etc. You can establish a documented ownership of your dog, and you may share your dog's account link to anyone you want over the internet/ social media.</p>
+	
+
+	<p><strong>Step by Step Process in Registering Your Dog</strong></p>
+	
+
+	<p>1. Make sure to go through the ORDER PROCESS first thru our website and settle payment via this <a href="https://manalok9icgd.com/products/dog-registration">link</a>. </p>
+	
+
+	<meta charset="utf-8">
+	
+
+	<p><a href="https://manalok9icgd.com/products/dog-registration"></a>2. Take note of your order number.</p>
+	
+
+	<p>3. Proceed with the Online Application Form below. </p>
+	
+
+	<p>4. Prepare all the information and complete it as much as you can so we can provide you with the best database of your dog.</p>
+	
+
+	<p><strong> Note:</strong></p>
+	
+
+	<p>﻿Please complete the information as much as possible. Leave them blank if the information is unknown.</p>
+	
+
+	<p>It is our obligation to guarantee that all information that we will be publising are verified to the best of our knowledge.</p>
+	
+
+	<p>Each application will go through the verification process. We appreciate your understanding.</p>
+	
+
+	<div style="margin: 0 auto;" class="pxFormGenerator" id="u3n8sb17yA91YjBLGstoRA"></div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</main>
+	
+
+	
+
+	
+
+	<div id="shopify-section-footer" class="shopify-section">
+	
+
+	<style>
+	
+
+	.site-footer__hr {
+	
+
+	border-bottom: 1px solid #dddddd;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer p,
+	
+
+	.site-footer__linklist-item a,
+	
+
+	.site-footer__rte a,
+	
+
+	.site-footer h4,
+	
+
+	.site-footer small,
+	
+
+	.site-footer__copyright-content a,
+	
+
+	.site-footer__newsletter-error,
+	
+
+	.site-footer__social-icons .social-icons__link {
+	
+
+	color: #333232;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer {
+	
+
+	color: #333232;
+	
+
+	background-color: #f6f6f6;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer__rte a {
+	
+
+	border-bottom: 1px solid #333232;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer__rte a:hover,
+	
+
+	.site-footer__linklist-item a:hover,
+	
+
+	.site-footer__copyright-content a:hover {
+	
+
+	color: #5a5858;
+	
+
+	border-bottom: 1px solid #5a5858;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer__social-icons .social-icons__link:hover {
+	
+
+	color: #5a5858;
+	
+
+	}
+	
+
+	</style><footer class="site-footer" role="contentinfo" data-section-id="footer" data-section-type="footer-section">
+	
+
+	<div class="page-width">
+	
+
+	<div class="site-footer__content"><div class="site-footer__item
+	
+
+	
+
+	
+
+	site-footer__item--one-half
+	
+
+	"
+	
+
+	>
+	
+
+	<div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h4">Quick links</p><ul class="site-footer__linklist
+	
+
+	list--inline"><li class="site-footer__linklist-item">
+	
+
+	<a href="/search"
+	
+
+	
+
+	
+
+	>
+	
+
+	Search
+	
+
+	</a>
+	
+
+	</li><li class="site-footer__linklist-item">
+	
+
+	<a href="/pages/contact-us"
+	
+
+	
+
+	
+
+	>
+	
+
+	Contact Us
+	
+
+	</a>
+	
+
+	</li></ul></div>
+	
+
+	</div><div class="site-footer__item
+	
+
+	
+
+	
+
+	site-footer__item--one-half
+	
+
+	"
+	
+
+	>
+	
+
+	<div class="site-footer__item-inner site-footer__item-inner--newsletter"><p class="h4">Newsletter</p><div class="site-footer__newsletter
+	
+
+	"><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+	
+
+	<input type="hidden" name="contact[tags]" value="newsletter">
+	
+
+	<div class="input-group ">
+	
+
+	<input type="email"
+	
+
+	name="contact[email]"
+	
+
+	id="ContactFooter-email"
+	
+
+	class="input-group__field newsletter__input"
+	
+
+	value=""
+	
+
+	placeholder="Email address"
+	
+
+	aria-label="Email address"
+	
+
+	aria-required="true"
+	
+
+	required
+	
+
+	autocorrect="off"
+	
+
+	autocapitalize="off"
+	
+
+	>
+	
+
+	<span class="input-group__btn">
+	
+
+	<button type="submit" class="btn newsletter__submit" name="commit" >
+	
+
+	<span class="newsletter__submit-text--large">Subscribe</span>
+	
+
+	</button>
+	
+
+	</span>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</form>
+	
+
+	</div></div>
+	
+
+	</div></div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<hr class="site-footer__hr"><div class="page-width">
+	
+
+	<div class="grid grid--no-gutters small--text-center grid--footer-float-right"><div class="grid__item small--hide one-half site-footer-item-center-vertically"><div class="grid__item site-footer__payment-icons">
+	
+
+	<span class="visually-hidden">Payment methods</span>
+	
+
+	<ul class="payment-icons list--inline site-footer__icon-list"><li class="payment-icon">
+	
+
+	<svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+	
+
+	</li></ul>
+	
+
+	</div></div><div class="grid__item one-half small--one-whole site-footer-item-tall"><div class="small--hide site-footer-item-align-right site-footer-item-center-vertically">
+	
+
+	<small class="site-footer__copyright-content">&copy; 2020, <a href="/" title="">International Canine Genetics Database</a></small>
+	
+
+	<small class="site-footer__copyright-content site-footer__copyright-content-powered-by"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small>
+	
+
+	</div></div><div class="grid__item medium-up--hide one-half small--one-whole"><div class="grid__item site-footer__payment-icons">
+	
+
+	<span class="visually-hidden">Payment methods</span>
+	
+
+	<ul class="payment-icons list--inline site-footer__icon-list"><li class="payment-icon">
+	
+
+	<svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+	
+
+	</li></ul>
+	
+
+	</div></div><div class="grid__item small--one-whole medium-up--hide site-footer-item-align-right">
+	
+
+	<small class="site-footer__copyright-content">&copy; 2020, <a href="/" title="">International Canine Genetics Database</a></small>
+	
+
+	<small class="site-footer__copyright-content site-footer__copyright-content--powered-by"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</footer>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<ul hidden>
+	
+
+	<li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+	
+
+	<li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+	
+
+	</ul>
+	
+
+	</body>
+	
+
+	
+
+	
+
+	<script async src="https://static.addtoany.com/menu/page.js"></script>
+	
+
+	
+
+	
+
+	<script>
+	
+
+	var a2a_config = a2a_config || {};
+	
+
+	a2a_config.overlays = a2a_config.overlays || [];
+	
+
+	a2a_config.overlays.push({
+	
+
+	services: ['whatsapp', 'facebook', 'email', 'copy_link'],
+	
+
+	size: '25',
+	
+
+	style: 'horizontal',
+	
+
+	position: 'top center',
+	
+
+	target: 'img.share-image'
+	
+
+	});
+	
+
+	</script>
+	
+
+	</html>
+	
+
+	
+
+	
+
+
+
+	<!doctype html>
+	
+
+	<html class="no-js" lang="en">
+	
+
+	<head>
+	
+
+	<meta charset="utf-8">
+	
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	
+
+	<meta name="theme-color" content="#3a3a3a"><link rel="canonical" href="https://manalok9icgd.com/pages/register-your-dog-puppy"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0402/4447/8101/files/realistkcjika-2_32x32.png?v=1592755101" type="image/png"><title>Register Your Dog/Puppy
+	
+
+	&ndash; International Canine Genetics Database</title><meta name="description" content="Importance of Registering Your Dog: If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog&#39;s information, identifications, records, certifications, etc. You can establish a documented ownership of your"><!-- /snippets/social-meta-tags.liquid -->
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<meta property="og:site_name" content="International Canine Genetics Database">
+	
+
+	<meta property="og:url" content="https://manalok9icgd.com/pages/register-your-dog-puppy">
+	
+
+	<meta property="og:title" content="Register Your Dog/Puppy">
+	
+
+	<meta property="og:type" content="website">
+	
+
+	<meta property="og:description" content="Importance of Registering Your Dog: If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog&#39;s information, identifications, records, certifications, etc. You can establish a documented ownership of your">
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<meta name="twitter:card" content="summary_large_image">
+	
+
+	<meta name="twitter:title" content="Register Your Dog/Puppy">
+	
+
+	<meta name="twitter:description" content="Importance of Registering Your Dog: If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog&#39;s information, identifications, records, certifications, etc. You can establish a documented ownership of your">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<link href="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/theme.scss.css?v=16353038100967133294" rel="stylesheet" type="text/css" media="all" />
+	
+
+	
+
+	
+
+	<script>
+	
+
+	var theme = {
+	
+
+	breakpoints: {
+	
+
+	medium: 750,
+	
+
+	large: 990,
+	
+
+	widescreen: 1400
+	
+
+	},
+	
+
+	strings: {
+	
+
+	addToCart: "Add to cart",
+	
+
+	soldOut: "Sold out",
+	
+
+	unavailable: "Unavailable",
+	
+
+	regularPrice: "Regular price",
+	
+
+	salePrice: "Sale price",
+	
+
+	sale: "Sale",
+	
+
+	fromLowestPrice: "from [price]",
+	
+
+	vendor: "Vendor",
+	
+
+	showMore: "Show More",
+	
+
+	showLess: "Show Less",
+	
+
+	searchFor: "Search for",
+	
+
+	addressError: "Error looking up that address",
+	
+
+	addressNoResults: "No results for that address",
+	
+
+	addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+	
+
+	authError: "There was a problem authenticating your Google Maps account.",
+	
+
+	newWindow: "Opens in a new window.",
+	
+
+	external: "Opens external website.",
+	
+
+	newWindowExternal: "Opens external website in a new window.",
+	
+
+	removeLabel: "Remove [product]",
+	
+
+	update: "Update",
+	
+
+	quantity: "Quantity",
+	
+
+	discountedTotal: "Discounted total",
+	
+
+	regularTotal: "Regular total",
+	
+
+	priceColumn: "See Price column for discount details.",
+	
+
+	quantityMinimumMessage: "Quantity must be 1 or more",
+	
+
+	cartError: "There was an error while updating your cart. Please try again.",
+	
+
+	removedItemMessage: "Removed \u003cspan class=\"cart__removed-product-details\"\u003e([quantity]) [link]\u003c\/span\u003e from your cart.",
+	
+
+	unitPrice: "Unit price",
+	
+
+	unitPriceSeparator: "per",
+	
+
+	oneCartCount: "1 item",
+	
+
+	otherCartCount: "[count] items",
+	
+
+	quantityLabel: "Quantity: [count]",
+	
+
+	products: "Products",
+	
+
+	loading: "Loading",
+	
+
+	number_of_results: "[result_number] of [results_count]",
+	
+
+	number_of_results_found: "[results_count] results found",
+	
+
+	one_result_found: "1 result found"
+	
+
+	},
+	
+
+	moneyFormat: "₱{{amount}}",
+	
+
+	moneyFormatWithCurrency: "₱{{amount}} PHP",
+	
+
+	settings: {
+	
+
+	predictiveSearchEnabled: true,
+	
+
+	predictiveSearchShowPrice: false,
+	
+
+	predictiveSearchShowVendor: false
+	
+
+	}
+	
+
+	}
+	
+
+	
+
+	
+
+	document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+	
+
+	</script><script src="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/lazysizes.js?v=9422402313628365795" async="async"></script>
+	
+
+	<script src="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/vendor.js?v=8583346420283214553" defer="defer"></script>
+	
+
+	<script src="//cdn.shopify.com/s/files/1/0402/4447/8101/t/1/assets/theme.js?v=8903157658550589297" defer="defer"></script>
+	
+
+	
+
+	
+
+	<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/40244478101/digital_wallets/dialog">
+	
+
+	<meta name="shopify-checkout-api-token" content="d40cc613614651add8f37a060981a3bf">
+	
+
+	<meta id="in-context-paypal-metadata" data-shop-id="40244478101" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="PHP">
+	
+
+	<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+	
+
+	<script id="shopify-features" type="application/json">{"accessToken":"d40cc613614651add8f37a060981a3bf","betas":["rich-media-storefront-analytics"],"domain":"manalok9icgd.com","predictiveSearch":true,"shopId":40244478101,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+	
+
+	<script>var Shopify = Shopify || {};
+	
+
+	Shopify.shop = "manalok9icgd.myshopify.com";
+	
+
+	Shopify.locale = "en";
+	
+
+	Shopify.currency = {"active":"PHP","rate":"1.0"};
+	
+
+	Shopify.theme = {"name":"Debut","id":100672536725,"theme_store_id":796,"role":"main"};
+	
+
+	Shopify.theme.handle = "null";
+	
+
+	Shopify.theme.style = {"id":null,"handle":null};
+	
+
+	Shopify.cdnHost = "cdn.shopify.com";</script>
+	
+
+	<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+	
+
+	<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+	
+
+	<script>(function() {
+	
+
+	function asyncLoad() {
+	
+
+	var urls = ["https:\/\/formbuilder.hulkapps.com\/skeletopapp.js?shop=manalok9icgd.myshopify.com","https:\/\/cdncozygallerya.addons.business\/embed\/cziframeagent.js?v=2804141505\u0026shop=manalok9icgd.myshopify.com"];
+	
+
+	for (var i = 0; i < urls.length; i++) {
+	
+
+	var s = document.createElement('script');
+	
+
+	s.type = 'text/javascript';
+	
+
+	s.async = true;
+	
+
+	s.src = urls[i];
+	
+
+	var x = document.getElementsByTagName('script')[0];
+	
+
+	x.parentNode.insertBefore(s, x);
+	
+
+	}
+	
+
+	};
+	
+
+	if(window.attachEvent) {
+	
+
+	window.attachEvent('onload', asyncLoad);
+	
+
+	} else {
+	
+
+	window.addEventListener('load', asyncLoad, false);
+	
+
+	}
+	
+
+	})();</script>
+	
+
+	<script id="__st">var __st={"a":40244478101,"offset":28800,"reqid":"e06c3439-9628-41b2-a8e8-a8aa573d37db","pageurl":"manalok9icgd.com\/pages\/register-your-dog-puppy","s":"pages-60189474965","u":"fa4c45993d8b","p":"page","rtyp":"page","rid":60189474965};</script>
+	
+
+	<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+	
+
+	<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+	
+
+	window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+	
+
+	window.ShopifyAnalytics.meta.currency = 'PHP';
+	
+
+	var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":60189474965}};
+	
+
+	for (var attr in meta) {
+	
+
+	window.ShopifyAnalytics.meta[attr] = meta[attr];
+	
+
+	}</script>
+	
+
+	<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+	
+
+	
+
+	
+
+	};
+	
+
+	</script>
+	
+
+	<script class="analytics">(function () {
+	
+
+	var customDocumentWrite = function(content) {
+	
+
+	var jquery = null;
+	
+
+	
+
+	
+
+	if (window.jQuery) {
+	
+
+	jquery = window.jQuery;
+	
+
+	} else if (window.Checkout && window.Checkout.$) {
+	
+
+	jquery = window.Checkout.$;
+	
+
+	}
+	
+
+	
+
+	
+
+	if (jquery) {
+	
+
+	jquery('body').append(content);
+	
+
+	}
+	
+
+	};
+	
+
+	
+
+	
+
+	var hasLoggedConversion = function(token) {
+	
+
+	if (document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1) {
+	
+
+	return true;
+	
+
+	}
+	
+
+	if (token) {
+	
+
+	return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+	
+
+	}
+	
+
+	return false;
+	
+
+	}
+	
+
+	
+
+	
+
+	var setCookieIfConversion = function(token) {
+	
+
+	if (token) {
+	
+
+	var twoMonthsFromNow = new Date(Date.now());
+	
+
+	twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+	
+
+	
+
+	
+
+	document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+	
+
+	}
+	
+
+	}
+	
+
+	
+
+	
+
+	var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+	
+
+	if (trekkie.integrations) {
+	
+
+	return;
+	
+
+	}
+	
+
+	trekkie.methods = [
+	
+
+	'identify',
+	
+
+	'page',
+	
+
+	'ready',
+	
+
+	'track',
+	
+
+	'trackForm',
+	
+
+	'trackLink'
+	
+
+	];
+	
+
+	trekkie.factory = function(method) {
+	
+
+	return function() {
+	
+
+	var args = Array.prototype.slice.call(arguments);
+	
+
+	args.unshift(method);
+	
+
+	trekkie.push(args);
+	
+
+	return trekkie;
+	
+
+	};
+	
+
+	};
+	
+
+	for (var i = 0; i < trekkie.methods.length; i++) {
+	
+
+	var key = trekkie.methods[i];
+	
+
+	trekkie[key] = trekkie.factory(key);
+	
+
+	}
+	
+
+	trekkie.load = function(config) {
+	
+
+	trekkie.config = config;
+	
+
+	var first = document.getElementsByTagName('script')[0];
+	
+
+	var script = document.createElement('script');
+	
+
+	script.type = 'text/javascript';
+	
+
+	script.onerror = function(e) {
+	
+
+	var scriptFallback = document.createElement('script');
+	
+
+	scriptFallback.type = 'text/javascript';
+	
+
+	scriptFallback.onerror = function(error) {
+	
+
+	var Monorail = {
+	
+
+	produce: function produce(monorailDomain, schemaId, payload) {
+	
+
+	var currentMs = new Date().getTime();
+	
+
+	var event = {
+	
+
+	schema_id: schemaId,
+	
+
+	payload: payload,
+	
+
+	metadata: {
+	
+
+	event_created_at_ms: currentMs,
+	
+
+	event_sent_at_ms: currentMs
+	
+
+	}
+	
+
+	};
+	
+
+	return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+	
+
+	},
+	
+
+	sendRequest: function sendRequest(endpointUrl, payload) {
+	
+
+	// Try the sendBeacon API
+	
+
+	if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+	
+
+	var blobData = new window.Blob([payload], {
+	
+
+	type: 'text/plain'
+	
+
+	});
+	
+
+	
+
+	
+
+	if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+	
+
+	return true;
+	
+
+	} // sendBeacon was not successful
+	
+
+	
+
+	
+
+	} // XHR beacon
+	
+
+	
+
+	
+
+	var xhr = new XMLHttpRequest();
+	
+
+	
+
+	
+
+	try {
+	
+
+	xhr.open('POST', endpointUrl);
+	
+
+	xhr.setRequestHeader('Content-Type', 'text/plain');
+	
+
+	xhr.send(payload);
+	
+
+	} catch (e) {
+	
+
+	console.log(e);
+	
+
+	}
+	
+
+	
+
+	
+
+	return false;
+	
+
+	},
+	
+
+	isIos12: function isIos12() {
+	
+
+	return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+	
+
+	}
+	
+
+	};
+	
+
+	Monorail.produce('monorail-edge.shopifysvc.com',
+	
+
+	'trekkie_storefront_load_errors/1.1',
+	
+
+	{shop_id: 40244478101,
+	
+
+	theme_id: 100672536725,
+	
+
+	app_name: "storefront",
+	
+
+	context_url: window.location.href,
+	
+
+	source_url: "https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.17582dc9a71a886cc49978263a7f8a5b6951db08.min.js"});
+	
+
+	
+
+	
+
+	};
+	
+
+	scriptFallback.async = true;
+	
+
+	scriptFallback.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.17582dc9a71a886cc49978263a7f8a5b6951db08.min.js';
+	
+
+	first.parentNode.insertBefore(scriptFallback, first);
+	
+
+	};
+	
+
+	script.async = true;
+	
+
+	script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.17582dc9a71a886cc49978263a7f8a5b6951db08.min.js';
+	
+
+	first.parentNode.insertBefore(script, first);
+	
+
+	};
+	
+
+	trekkie.load(
+	
+
+	{"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":40244478101,"isMerchantRequest":null,"themeId":100672536725,"themeCityHash":"12180134231832368609","contentLanguage":"en","currency":"PHP"},"isServerSideCookieWritingEnabled":true,"isPixelGateEnabled":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Session Attribution":{}}
+	
+
+	);
+	
+
+	
+
+	
+
+	var loaded = false;
+	
+
+	trekkie.ready(function() {
+	
+
+	if (loaded) return;
+	
+
+	loaded = true;
+	
+
+	
+
+	
+
+	window.ShopifyAnalytics.lib = window.trekkie;
+	
+
+	
+
+	
+
+	
+
+	
+
+	var originalDocumentWrite = document.write;
+	
+
+	document.write = customDocumentWrite;
+	
+
+	try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+	
+
+	document.write = originalDocumentWrite;
+	
+
+	(function () {
+	
+
+	if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+	
+
+	return;
+	
+
+	}
+	
+
+	window.BOOMR = window.BOOMR || {};
+	
+
+	window.BOOMR.snippetStart = new Date().getTime();
+	
+
+	window.BOOMR.snippetExecuted = true;
+	
+
+	window.BOOMR.snippetVersion = 12;
+	
+
+	window.BOOMR.application = "storefront-renderer";
+	
+
+	window.BOOMR.themeName = "Debut";
+	
+
+	window.BOOMR.themeVersion = "16.7.1";
+	
+
+	window.BOOMR.shopId = 40244478101;
+	
+
+	window.BOOMR.themeId = 100672536725;
+	
+
+	window.BOOMR.url =
+	
+
+	"https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+	
+
+	var where = document.currentScript || document.getElementsByTagName("script")[0];
+	
+
+	var parentNode = where.parentNode;
+	
+
+	var promoted = false;
+	
+
+	var LOADER_TIMEOUT = 3000;
+	
+
+	function promote() {
+	
+
+	if (promoted) {
+	
+
+	return;
+	
+
+	}
+	
+
+	var script = document.createElement("script");
+	
+
+	script.id = "boomr-scr-as";
+	
+
+	script.src = window.BOOMR.url;
+	
+
+	script.async = true;
+	
+
+	parentNode.appendChild(script);
+	
+
+	promoted = true;
+	
+
+	}
+	
+
+	function iframeLoader(wasFallback) {
+	
+
+	promoted = true;
+	
+
+	var dom, bootstrap, iframe, iframeStyle;
+	
+
+	var doc = document;
+	
+
+	var win = window;
+	
+
+	window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+	
+
+	bootstrap = function(parent, scriptId) {
+	
+
+	var script = doc.createElement("script");
+	
+
+	script.id = scriptId || "boomr-if-as";
+	
+
+	script.src = window.BOOMR.url;
+	
+
+	BOOMR_lstart = new Date().getTime();
+	
+
+	parent = parent || doc.body;
+	
+
+	parent.appendChild(script);
+	
+
+	};
+	
+
+	if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+	
+
+	window.BOOMR.snippetMethod = "s";
+	
+
+	bootstrap(parentNode, "boomr-async");
+	
+
+	return;
+	
+
+	}
+	
+
+	iframe = document.createElement("IFRAME");
+	
+
+	iframe.src = "about:blank";
+	
+
+	iframe.title = "";
+	
+
+	iframe.role = "presentation";
+	
+
+	iframe.loading = "eager";
+	
+
+	iframeStyle = (iframe.frameElement || iframe).style;
+	
+
+	iframeStyle.width = 0;
+	
+
+	iframeStyle.height = 0;
+	
+
+	iframeStyle.border = 0;
+	
+
+	iframeStyle.display = "none";
+	
+
+	parentNode.appendChild(iframe);
+	
+
+	try {
+	
+
+	win = iframe.contentWindow;
+	
+
+	doc = win.document.open();
+	
+
+	} catch (e) {
+	
+
+	dom = document.domain;
+	
+
+	iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+	
+
+	win = iframe.contentWindow;
+	
+
+	doc = win.document.open();
+	
+
+	}
+	
+
+	if (dom) {
+	
+
+	doc._boomrl = function() {
+	
+
+	this.domain = dom;
+	
+
+	bootstrap();
+	
+
+	};
+	
+
+	doc.write("<body onload='document._boomrl();'>");
+	
+
+	} else {
+	
+
+	win._boomrl = function() {
+	
+
+	bootstrap();
+	
+
+	};
+	
+
+	if (win.addEventListener) {
+	
+
+	win.addEventListener("load", win._boomrl, false);
+	
+
+	} else if (win.attachEvent) {
+	
+
+	win.attachEvent("onload", win._boomrl);
+	
+
+	}
+	
+
+	}
+	
+
+	doc.close();
+	
+
+	}
+	
+
+	var link = document.createElement("link");
+	
+
+	if (link.relList &&
+	
+
+	typeof link.relList.supports === "function" &&
+	
+
+	link.relList.supports("preload") &&
+	
+
+	("as" in link)) {
+	
+
+	window.BOOMR.snippetMethod = "p";
+	
+
+	link.href = window.BOOMR.url;
+	
+
+	link.rel = "preload";
+	
+
+	link.as = "script";
+	
+
+	link.addEventListener("load", promote);
+	
+
+	link.addEventListener("error", function() {
+	
+
+	iframeLoader(true);
+	
+
+	});
+	
+
+	setTimeout(function() {
+	
+
+	if (!promoted) {
+	
+
+	iframeLoader(true);
+	
+
+	}
+	
+
+	}, LOADER_TIMEOUT);
+	
+
+	BOOMR_lstart = new Date().getTime();
+	
+
+	parentNode.appendChild(link);
+	
+
+	} else {
+	
+
+	iframeLoader(false);
+	
+
+	}
+	
+
+	function boomerangSaveLoadTime(e) {
+	
+
+	window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+	
+
+	}
+	
+
+	if (window.addEventListener) {
+	
+
+	window.addEventListener("load", boomerangSaveLoadTime, false);
+	
+
+	} else if (window.attachEvent) {
+	
+
+	window.attachEvent("onload", boomerangSaveLoadTime);
+	
+
+	}
+	
+
+	if (document.addEventListener) {
+	
+
+	document.addEventListener("onBoomerangLoaded", function(e) {
+	
+
+	e.detail.BOOMR.init({
+	
+
+	producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+	
+
+	ResourceTiming: {
+	
+
+	enabled: true,
+	
+
+	trackedResourceTypes: ["script", "img", "css"]
+	
+
+	},
+	
+
+	});
+	
+
+	e.detail.BOOMR.t_end = new Date().getTime();
+	
+
+	});
+	
+
+	} else if (document.attachEvent) {
+	
+
+	document.attachEvent("onpropertychange", function(e) {
+	
+
+	if (!e) e=event;
+	
+
+	if (e.propertyName === "onBoomerangLoaded") {
+	
+
+	e.detail.BOOMR.init({
+	
+
+	producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+	
+
+	ResourceTiming: {
+	
+
+	enabled: true,
+	
+
+	trackedResourceTypes: ["script", "img", "css"]
+	
+
+	},
+	
+
+	});
+	
+
+	e.detail.BOOMR.t_end = new Date().getTime();
+	
+
+	}
+	
+
+	});
+	
+
+	}
+	
+
+	})();
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	window.ShopifyAnalytics.lib.page(
+	
+
+	null,
+	
+
+	{"pageType":"page","resourceType":"page","resourceId":60189474965}
+	
+
+	);
+	
+
+	
+
+	
+
+	
+
+	
+
+	var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+	
+
+	var token = match? match[1]: undefined;
+	
+
+	if (!hasLoggedConversion(token)) {
+	
+
+	setCookieIfConversion(token);
+	
+
+	
+
+	
+
+	}
+	
+
+	});
+	
+
+	
+
+	
+
+	
+
+	
+
+	var eventsListenerScript = document.createElement('script');
+	
+
+	eventsListenerScript.async = true;
+	
+
+	eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-68ba3f1321f00bf07cb78a03841621079812265e950cdccade3463749ea2705e.js";
+	
+
+	document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+	
+
+	
+
+	
+
+	})();</script>
+	
+
+	<script>!function(e){e.addEventListener("DOMContentLoaded",function(){var t;null!==e.querySelector('form[action^="/contact"] input[name="form_type"][value="contact"]')&&(window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"},(t=e.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.1/index.js"),e.body.appendChild(t))})}(document);</script>
+	
+
+	<script integrity="sha256-JP8SIsmqE7shdlPA0+ooxAp5aigObaKa1CHuwqYHXIY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-24ff1222c9aa13bb217653c0d3ea28c40a796a280e6da29ad421eec2a6075c86.js" crossorigin="anonymous"></script>
+	
+
+	<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+	
+
+	#dynamic-checkout-cart {
+	
+
+	min-height: 50px;
+	
+
+	}
+	
+
+	}
+	
+
+	
+
+	
+
+	@media screen and (max-width: 750px) {
+	
+
+	#dynamic-checkout-cart {
+	
+
+	min-height: 60px;
+	
+
+	}
+	
+
+	}
+	
+
+	</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+	
+
+	
+
+	
+
+	<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b.png?height=628&pad_color=ffffff&v=1592754194&width=1200" />
+	
+
+	<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b.png?height=628&pad_color=ffffff&v=1592754194&width=1200" />
+	
+
+	<meta property="og:image:width" content="1200" />
+	
+
+	<meta property="og:image:height" content="628" />
+	
+
+	</head>
+	
+
+	
+
+	
+
+	<body class="template-page">
+	
+
+	
+
+	
+
+	<a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a><style data-shopify>
+	
+
+	
+
+	
+
+	.cart-popup {
+	
+
+	box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);
+	
+
+	}</style><div class="cart-popup-wrapper cart-popup-wrapper--hidden" role="dialog" aria-modal="true" aria-labelledby="CartPopupHeading" data-cart-popup-wrapper>
+	
+
+	<div class="cart-popup" data-cart-popup tabindex="-1">
+	
+
+	<div class="cart-popup__header">
+	
+
+	<h2 id="CartPopupHeading" class="cart-popup__heading">Just added to your cart</h2>
+	
+
+	<button class="cart-popup__close" aria-label="Close" data-cart-popup-close><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg></button>
+	
+
+	</div>
+	
+
+	<div class="cart-popup-item">
+	
+
+	<div class="cart-popup-item__image-wrapper hide" data-cart-popup-image-wrapper>
+	
+
+	<div class="cart-popup-item__image cart-popup-item__image--placeholder" data-cart-popup-image-placeholder>
+	
+
+	<div data-placeholder-size></div>
+	
+
+	<div class="placeholder-background placeholder-background--animation"></div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	<div class="cart-popup-item__description">
+	
+
+	<div>
+	
+
+	<h3 class="cart-popup-item__title" data-cart-popup-title></h3>
+	
+
+	<ul class="product-details" aria-label="Product details" data-cart-popup-product-details></ul>
+	
+
+	</div>
+	
+
+	<div class="cart-popup-item__quantity">
+	
+
+	<span class="visually-hidden" data-cart-popup-quantity-label></span>
+	
+
+	<span aria-hidden="true">Qty:</span>
+	
+
+	<span aria-hidden="true" data-cart-popup-quantity></span>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<a href="/cart" class="cart-popup__cta-link btn btn--secondary-accent">
+	
+
+	View cart (<span data-cart-popup-cart-quantity></span>)
+	
+
+	</a>
+	
+
+	
+
+	
+
+	<div class="cart-popup__dismiss">
+	
+
+	<button class="cart-popup__dismiss-button text-link text-link--accent" data-cart-popup-dismiss>
+	
+
+	Continue shopping
+	
+
+	</button>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div id="shopify-section-header" class="shopify-section">
+	
+
+	<style>
+	
+
+	
+
+	
+
+	.site-header__logo-image {
+	
+
+	max-width: 165px;
+	
+
+	}
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	.site-header__logo-image {
+	
+
+	margin: 0;
+	
+
+	}
+	
+
+	
+
+	
+
+	</style>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search" data-predictive-search-drawer>
+	
+
+	<div class="search-bar__interior">
+	
+
+	<div class="search-form__container" data-search-form-container>
+	
+
+	<form class="search-form search-bar__form" action="/search" method="get" role="search">
+	
+
+	<div class="search-form__input-wrapper">
+	
+
+	<input
+	
+
+	type="text"
+	
+
+	name="q"
+	
+
+	placeholder="Search"
+	
+
+	role="combobox"
+	
+
+	aria-autocomplete="list"
+	
+
+	aria-owns="predictive-search-results"
+	
+
+	aria-expanded="false"
+	
+
+	aria-label="Search"
+	
+
+	aria-haspopup="listbox"
+	
+
+	class="search-form__input search-bar__input"
+	
+
+	data-predictive-search-drawer-input
+	
+
+	/>
+	
+
+	<input type="hidden" name="options[prefix]" value="last" aria-hidden="true" />
+	
+
+	<div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<button class="search-bar__submit search-form__submit"
+	
+
+	type="submit"
+	
+
+	data-search-form-submit>
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+	
+
+	<span class="icon__fallback-text">Submit</span>
+	
+
+	</button>
+	
+
+	</form>
+	
+
+	
+
+	
+
+	<div class="search-bar__actions">
+	
+
+	<button type="button" class="btn--link search-bar__close js-drawer-close">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+	
+
+	<span class="icon__fallback-text">Close search</span>
+	
+
+	</button>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div data-section-id="header" data-section-type="header-section" data-header-section>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<header class="site-header border-bottom logo--left" role="banner">
+	
+
+	<div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="grid__item medium-up--one-fifth logo-align--left">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="h2 site-header__logo">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<a href="/" class="site-header__logo-image">
+	
+
+	
+
+	
+
+	<img class="lazyload js"
+	
+
+	src="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_300x300.png?v=1592754194"
+	
+
+	data-src="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_{width}x.png?v=1592754194"
+	
+
+	data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+	
+
+	data-aspectratio="2.3157216494845363"
+	
+
+	data-sizes="auto"
+	
+
+	alt="International Canine Genetics Database"
+	
+
+	style="max-width: 165px">
+	
+
+	<noscript>
+	
+
+	
+
+	
+
+	<img src="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_165x.png?v=1592754194"
+	
+
+	srcset="//cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_165x.png?v=1592754194 1x, //cdn.shopify.com/s/files/1/0402/4447/8101/files/logo_b_165x@2x.png?v=1592754194 2x"
+	
+
+	alt="International Canine Genetics Database"
+	
+
+	style="max-width: 165px;">
+	
+
+	</noscript>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<nav class="grid__item medium-up--three-fifths small--hide" id="AccessibleNav" role="navigation">
+	
+
+	
+
+	
+
+	<ul class="site-nav list--inline" id="SiteNav">
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Home</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li class="site-nav--has-dropdown" data-has-dropdowns>
+	
+
+	<button class="site-nav__link site-nav__link--main site-nav__link--button site-nav__link--active" type="button" aria-expanded="false" aria-controls="SiteNavLabel-registration">
+	
+
+	<span class="site-nav__label">Registration</span><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-down" viewBox="0 0 9 9"><path d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z" fill="#fff"/></svg>
+	
+
+	</button>
+	
+
+	
+
+	
+
+	<div class="site-nav__dropdown" id="SiteNavLabel-registration">
+	
+
+	
+
+	
+
+	<ul>
+	
+
+	
+
+	
+
+	<li>
+	
+
+	<a href="/pages/register-your-dog-puppy"
+	
+
+	class="site-nav__link site-nav__child-link"
+	
+
+	aria-current="page"
+	
+
+	>
+	
+
+	<span class="site-nav__label">Register a Dog/Puppy</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li>
+	
+
+	<a href="/pages/registration-of-a-kennel-name"
+	
+
+	class="site-nav__link site-nav__child-link site-nav__link--last"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Registration of a Kennel Name</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/membership"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Membership</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/dog-breeds"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Breeds</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/forms-and-fees"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Forms and Fees</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/dna-parent-verification-test"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Dog DNA Test</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li >
+	
+
+	<a href="/pages/registered-dogs"
+	
+
+	class="site-nav__link site-nav__link--main"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="site-nav__label">Registered Dogs</span>
+	
+
+	</a>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	
+
+	
+
+	</nav>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="grid__item medium-up--one-fifth text-right site-header__icons">
+	
+
+	<div class="site-header__icons-wrapper">
+	
+
+	
+
+	
+
+	<button type="button" class="btn--link site-header__icon site-header__search-toggle js-drawer-open-top">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+	
+
+	<span class="icon__fallback-text">Search</span>
+	
+
+	</button>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<a href="/cart" class="site-header__icon site-header__cart">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"/></svg>
+	
+
+	<span class="icon__fallback-text">Cart</span>
+	
+
+	<div id="CartCount" class="site-header__cart-count hide" data-cart-count-bubble>
+	
+
+	<span data-cart-count>0</span>
+	
+
+	<span class="icon__fallback-text medium-up--hide">items</span>
+	
+
+	</div>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="MobileNav" aria-expanded="false" aria-label="Menu">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"/></svg>
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+	
+
+	</button>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<nav class="mobile-nav-wrapper medium-up--hide" role="navigation">
+	
+
+	<ul id="MobileNav" class="mobile-nav">
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Home</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	
+
+	
+
+	<button type="button" class="btn--link js-toggle-submenu mobile-nav__link mobile-nav__link--active" data-target="registration-2" data-level="1" aria-expanded="false">
+	
+
+	<span class="mobile-nav__label">Registration</span>
+	
+
+	<div class="mobile-nav__icon">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 14 14"><path d="M3.871.604c.44-.439 1.152-.439 1.591 0l5.515 5.515s-.049-.049.003.004l.082.08c.439.44.44 1.153 0 1.592l-5.6 5.6a1.125 1.125 0 0 1-1.59-1.59L8.675 7 3.87 2.195a1.125 1.125 0 0 1 0-1.59z" fill="#fff"/></svg>
+	
+
+	</div>
+	
+
+	</button>
+	
+
+	<ul class="mobile-nav__dropdown" data-parent="registration-2" data-level="2">
+	
+
+	<li class="visually-hidden" tabindex="-1" data-menu-title="2">Registration Menu</li>
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	<div class="mobile-nav__table">
+	
+
+	<div class="mobile-nav__table-cell mobile-nav__return">
+	
+
+	<button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button" aria-expanded="true" aria-label="Registration">
+	
+
+	<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 14 14"><path d="M10.129.604a1.125 1.125 0 0 0-1.591 0L3.023 6.12s.049-.049-.003.004l-.082.08c-.439.44-.44 1.153 0 1.592l5.6 5.6a1.125 1.125 0 0 0 1.59-1.59L5.325 7l4.805-4.805c.44-.439.44-1.151 0-1.59z" fill="#fff"/></svg>
+	
+
+	</button>
+	
+
+	</div>
+	
+
+	<span class="mobile-nav__sublist-link mobile-nav__sublist-header mobile-nav__sublist-header--main-nav-parent">
+	
+
+	<span class="mobile-nav__label">Registration</span>
+	
+
+	</span>
+	
+
+	</div>
+	
+
+	</li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/register-your-dog-puppy"
+	
+
+	class="mobile-nav__sublist-link"
+	
+
+	aria-current="page"
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Register a Dog/Puppy</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item">
+	
+
+	
+
+	
+
+	<a href="/pages/registration-of-a-kennel-name"
+	
+
+	class="mobile-nav__sublist-link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Registration of a Kennel Name</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/membership"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Membership</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/dog-breeds"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Breeds</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/forms-and-fees"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Forms and Fees</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item border-bottom">
+	
+
+	
+
+	
+
+	<a href="/pages/dna-parent-verification-test"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Dog DNA Test</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	<li class="mobile-nav__item">
+	
+
+	
+
+	
+
+	<a href="/pages/registered-dogs"
+	
+
+	class="mobile-nav__link"
+	
+
+	
+
+	
+
+	>
+	
+
+	<span class="mobile-nav__label">Registered Dogs</span>
+	
+
+	</a>
+	
+
+	
+
+	
+
+	</li>
+	
+
+	
+
+	
+
+	</ul>
+	
+
+	</nav>
+	
+
+	</header>
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<script type="application/ld+json">
+	
+
+	{
+	
+
+	"@context": "http://schema.org",
+	
+
+	"@type": "Organization",
+	
+
+	"name": "International Canine Genetics Database",
+	
+
+	
+
+	
+
+	
+
+	
+
+	"logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0402\/4447\/8101\/files\/logo_b_1797x.png?v=1592754194",
+	
+
+	
+
+	
+
+	"sameAs": [
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	"",
+	
+
+	""
+	
+
+	],
+	
+
+	"url": "https:\/\/manalok9icgd.com\/pages\/register-your-dog-puppy"
+	
+
+	}
+	
+
+	</script>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div class="page-container drawer-page-content" id="PageContainer">
+	
+
+	
+
+	
+
+	<main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+	
+
+	<div class="page-width">
+	
+
+	<div class="grid">
+	
+
+	<div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+	
+
+	<div class="section-header text-center">
+	
+
+	<h1>Register Your Dog/Puppy</h1>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div class="rte">
+	
+
+	<meta charset="utf-8">
+	
+
+	<p><strong>Importance of Registering Your Dog: </strong></p>
+	
+
+	<p>If you are a simple dog owner: Registering your dog will get you a Registration Certificate and a pedigree records system account for your dog, where you can upload your dog's information, identifications, records, certifications, etc. You can establish a documented ownership of your dog, and you may share your dog's account link to anyone you want over the internet/ social media.</p>
+	
+
+	<p><strong>Step by Step Process in Registering Your Dog</strong></p>
+	
+
+	<p>1. Make sure to go through the ORDER PROCESS first thru our website and settle payment via this <a href="https://manalok9icgd.com/products/dog-registration">link</a>. </p>
+	
+
+	<meta charset="utf-8">
+	
+
+	<p><a href="https://manalok9icgd.com/products/dog-registration"></a>2. Take note of your order number.</p>
+	
+
+	<p>3. Proceed with the Online Application Form below. </p>
+	
+
+	<p>4. Prepare all the information and complete it as much as you can so we can provide you with the best database of your dog.</p>
+	
+
+	<p><strong> Note:</strong></p>
+	
+
+	<p>﻿Please complete the information as much as possible. Leave them blank if the information is unknown.</p>
+	
+
+	<p>It is our obligation to guarantee that all information that we will be publising are verified to the best of our knowledge.</p>
+	
+
+	<p>Each application will go through the verification process. We appreciate your understanding.</p>
+	
+
+	<div style="margin: 0 auto;" class="pxFormGenerator" id="u3n8sb17yA91YjBLGstoRA"></div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</main>
+	
+
+	
+
+	
+
+	<div id="shopify-section-footer" class="shopify-section">
+	
+
+	<style>
+	
+
+	.site-footer__hr {
+	
+
+	border-bottom: 1px solid #dddddd;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer p,
+	
+
+	.site-footer__linklist-item a,
+	
+
+	.site-footer__rte a,
+	
+
+	.site-footer h4,
+	
+
+	.site-footer small,
+	
+
+	.site-footer__copyright-content a,
+	
+
+	.site-footer__newsletter-error,
+	
+
+	.site-footer__social-icons .social-icons__link {
+	
+
+	color: #333232;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer {
+	
+
+	color: #333232;
+	
+
+	background-color: #f6f6f6;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer__rte a {
+	
+
+	border-bottom: 1px solid #333232;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer__rte a:hover,
+	
+
+	.site-footer__linklist-item a:hover,
+	
+
+	.site-footer__copyright-content a:hover {
+	
+
+	color: #5a5858;
+	
+
+	border-bottom: 1px solid #5a5858;
+	
+
+	}
+	
+
+	
+
+	
+
+	.site-footer__social-icons .social-icons__link:hover {
+	
+
+	color: #5a5858;
+	
+
+	}
+	
+
+	</style><footer class="site-footer" role="contentinfo" data-section-id="footer" data-section-type="footer-section">
+	
+
+	<div class="page-width">
+	
+
+	<div class="site-footer__content"><div class="site-footer__item
+	
+
+	
+
+	
+
+	site-footer__item--one-half
+	
+
+	"
+	
+
+	>
+	
+
+	<div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h4">Quick links</p><ul class="site-footer__linklist
+	
+
+	list--inline"><li class="site-footer__linklist-item">
+	
+
+	<a href="/search"
+	
+
+	
+
+	
+
+	>
+	
+
+	Search
+	
+
+	</a>
+	
+
+	</li><li class="site-footer__linklist-item">
+	
+
+	<a href="/pages/contact-us"
+	
+
+	
+
+	
+
+	>
+	
+
+	Contact Us
+	
+
+	</a>
+	
+
+	</li></ul></div>
+	
+
+	</div><div class="site-footer__item
+	
+
+	
+
+	
+
+	site-footer__item--one-half
+	
+
+	"
+	
+
+	>
+	
+
+	<div class="site-footer__item-inner site-footer__item-inner--newsletter"><p class="h4">Newsletter</p><div class="site-footer__newsletter
+	
+
+	"><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+	
+
+	<input type="hidden" name="contact[tags]" value="newsletter">
+	
+
+	<div class="input-group ">
+	
+
+	<input type="email"
+	
+
+	name="contact[email]"
+	
+
+	id="ContactFooter-email"
+	
+
+	class="input-group__field newsletter__input"
+	
+
+	value=""
+	
+
+	placeholder="Email address"
+	
+
+	aria-label="Email address"
+	
+
+	aria-required="true"
+	
+
+	required
+	
+
+	autocorrect="off"
+	
+
+	autocapitalize="off"
+	
+
+	>
+	
+
+	<span class="input-group__btn">
+	
+
+	<button type="submit" class="btn newsletter__submit" name="commit" >
+	
+
+	<span class="newsletter__submit-text--large">Subscribe</span>
+	
+
+	</button>
+	
+
+	</span>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	</form>
+	
+
+	</div></div>
+	
+
+	</div></div>
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<hr class="site-footer__hr"><div class="page-width">
+	
+
+	<div class="grid grid--no-gutters small--text-center grid--footer-float-right"><div class="grid__item small--hide one-half site-footer-item-center-vertically"><div class="grid__item site-footer__payment-icons">
+	
+
+	<span class="visually-hidden">Payment methods</span>
+	
+
+	<ul class="payment-icons list--inline site-footer__icon-list"><li class="payment-icon">
+	
+
+	<svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+	
+
+	</li></ul>
+	
+
+	</div></div><div class="grid__item one-half small--one-whole site-footer-item-tall"><div class="small--hide site-footer-item-align-right site-footer-item-center-vertically">
+	
+
+	<small class="site-footer__copyright-content">&copy; 2020, <a href="/" title="">International Canine Genetics Database</a></small>
+	
+
+	<small class="site-footer__copyright-content site-footer__copyright-content-powered-by"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small>
+	
+
+	</div></div><div class="grid__item medium-up--hide one-half small--one-whole"><div class="grid__item site-footer__payment-icons">
+	
+
+	<span class="visually-hidden">Payment methods</span>
+	
+
+	<ul class="payment-icons list--inline site-footer__icon-list"><li class="payment-icon">
+	
+
+	<svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+	
+
+	</li></ul>
+	
+
+	</div></div><div class="grid__item small--one-whole medium-up--hide site-footer-item-align-right">
+	
+
+	<small class="site-footer__copyright-content">&copy; 2020, <a href="/" title="">International Canine Genetics Database</a></small>
+	
+
+	<small class="site-footer__copyright-content site-footer__copyright-content--powered-by"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</div>
+	
+
+	</footer>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+	
+
+	
+
+	
+
+	</div>
+	
+
+	
+
+	
+
+	<ul hidden>
+	
+
+	<li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+	
+
+	<li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+	
+
+	</ul>
+	
+
+	</body>
+	
+
+	
+
+	
+
+	<script async src="https://static.addtoany.com/menu/page.js"></script>
+	
+
+	
+
+	
+
+	<script>
+	
+
+	var a2a_config = a2a_config || {};
+	
+
+	a2a_config.overlays = a2a_config.overlays || [];
+	
+
+	a2a_config.overlays.push({
+	
+
+	services: ['whatsapp', 'facebook', 'email', 'copy_link'],
+	
+
+	size: '25',
+	
+
+	style: 'horizontal',
+	
+
+	position: 'top center',
+	
+
+	target: 'img.share-image'
+	
+
+	});
+	
+
+	</script>
+	
+
+	</html>
