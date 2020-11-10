@@ -1,0 +1,41 @@
+﻿<table class="table pedigree-table cursor-pointer" onclick="window.open( 'https://manalok9icgd.pedigreeonline.com/basha-i8Dj5InS/pedigree?utm_campaign=share-button&amp;utm_source=external&amp;utm_medium=embed', '_blank')">
+<tbody>
+<tr>
+<td rowspan="4" class="sex-male pedigree-M pedigree-gen-1">
+<div><span class="pedigree-name">Garfield</span></div>
+<div class="pedigree-meta"><span class="pedigree-dob">~2010</span></div>
+</td>
+<td rowspan="2" class="sex-na pedigree-MM pedigree-gen-2">-</td>
+<td rowspan="1" class="sex-na pedigree-MMM pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="1" class="sex-na pedigree-MMF pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="2" class="sex-na pedigree-MF pedigree-gen-2">-</td>
+<td rowspan="1" class="sex-na pedigree-MFM pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="1" class="sex-na pedigree-MFF pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="4" class="sex-female pedigree-F pedigree-gen-1">
+<div><span class="pedigree-name">Mira</span></div>
+<div class="pedigree-meta"><span class="pedigree-dob">~2011</span></div>
+<div class="pedigree-meta"><span class="pedigree-dob">Black</span></div>
+</td>
+<td rowspan="2" class="sex-na pedigree-FM pedigree-gen-2">-</td>
+<td rowspan="1" class="sex-na pedigree-FMM pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="1" class="sex-na pedigree-FMF pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="2" class="sex-na pedigree-FF pedigree-gen-2">-</td>
+<td rowspan="1" class="sex-na pedigree-FFM pedigree-gen-3">-</td>
+</tr>
+<tr>
+<td rowspan="1" class="sex-na pedigree-FFF pedigree-gen-3">-</td>
+</tr>
+</tbody>
+</table>
